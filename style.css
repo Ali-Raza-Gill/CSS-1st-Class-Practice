@@ -4,6 +4,7 @@
 p{
     color: #ff0000;
     text-align: center;
+    line-height: 30px;
 }
 
 h1{
@@ -25,4 +26,7 @@ a{
 button{
     color: blueviolet;
     background-color: #fff;
+}
+textarea{
+    color: black;
 }
