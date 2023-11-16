@@ -1,5 +1,8 @@
+*{
+    font-family: georgia;
+}
 p{
-    color: brown;
+    color: #ff0000;
     text-align: center;
 }
 
@@ -9,8 +12,17 @@ h1{
 
 h3{
     text-align: center;
+    color: black;
 }
 
 h4{
     text-align: center;
+}
+a{
+    color: rgb(0, 128, 0);
+    text-decoration: none;
+}
+button{
+    color: blueviolet;
+    background-color: #fff;
 }
